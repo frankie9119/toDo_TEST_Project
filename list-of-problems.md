@@ -18,7 +18,10 @@
 
  JS/
  	app.js
- 	controller.js
+
+ 	controller.js -------> Controller.prototype.addItem = function (title) { //-----> _____ HERE ____ addItem was spelled with 3d adddItem
+
+
  	helpers.js
  	model.js
  	store.js
