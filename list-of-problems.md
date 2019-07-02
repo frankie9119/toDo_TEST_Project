@@ -28,3 +28,8 @@
  	template.js
  	view.js
 
+<input class="toggle-all" type="checkbox">
+<label for="toggle-all">Mark all as complete</label>
+Fixed:
+
+<input class="toggle-all" id=” toggle-all” type="checkbox">
